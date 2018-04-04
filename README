@@ -37,7 +37,7 @@ To build the keccak-cli program:
 
 Function Description:
    
-   string keccak_hash(string $string [, int bit_length = 512])
+   string keccak_hash(string $string [, int bit_length = 512, bool raw_output = false])
 
 Example:
 
