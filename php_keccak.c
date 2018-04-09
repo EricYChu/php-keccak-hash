@@ -29,7 +29,7 @@ zend_module_entry keccak_module_entry = {
 	NULL,
 	PHP_MINFO(keccak),
 #if ZEND_MODULE_API_NO >= 20010901
-	"0.1",
+	"0.2",
 #endif
 	STANDARD_MODULE_PROPERTIES
 };
